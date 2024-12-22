@@ -1,0 +1,8 @@
+albumentations
+torch
+opencv-python
+numpy
+pandas
+scikit-learn
+tqdm
+streamlit
